@@ -27,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -53,5 +54,11 @@
       <updated>1609151341623</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="351" y="62" key="CommitChangelistDialog2" timestamp="1609151650106">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="351" y="62" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1609151650106" />
   </component>
 </project>
